@@ -21,10 +21,10 @@ This is a **meta-repo**: a concise summary with links to the write-up and forks 
 ## Links
 - Write-up: *Finetuning Qwen 0.5B using Hivemind — Data Parallelism Over the Internet*  
   https://medium.com/@kannansarat9/finetuning-qwen-0-5b-using-hivemind-data-parallelism-over-the-internet-e20af1b15c05
+- Code forks used in this project:
+    - TorchTune fork (configs/recipes): https://github.com/sparklerz/torchtune
+    - Hivemind (modified for TorchTune integration): https://github.com/sparklerz/hivemind-modified-for-torchtune
 - Base model: **Qwen/Qwen2-0.5B-Instruct**
   https://huggingface.co/Qwen/Qwen2-0.5B-Instruct
 - Fine-tuned Model: **hivemind-torchtune-Qwen2-0.5B**
   https://huggingface.co/ash001/hivemind-torchtune-Qwen2-0.5B
-- Code forks used in this project:
-    - TorchTune fork (configs/recipes): https://github.com/sparklerz/torchtune
-    - Hivemind (modified for TorchTune integration): https://github.com/sparklerz/hivemind-modified-for-torchtune
